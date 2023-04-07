@@ -1,0 +1,15 @@
+
+#search {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zeOE1bUO3ncM5Ffwop7at9LlZjn7N89S7Q&usqp=CAU');
+  background-size: cover;
+}
+
+ .pippo{
+  font-size: 30px;
+}
+ 
+
+footer p {
+  line-height: 2;
+  cursor: pointer;
+}
